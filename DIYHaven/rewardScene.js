@@ -6,7 +6,7 @@ class rewardScene extends Phaser.Scene {
   }
   preload() {
 
-      this.load.image("reward","assets/reward.png");
+      this.load.image("reward","assets/Reward.png");
     
       }
     
